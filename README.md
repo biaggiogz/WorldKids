@@ -1,7 +1,23 @@
 # Un Mundo entre Niños
 
-![imagen](https://user-images.githubusercontent.com/97037283/193574593-8612d6c4-0867-427a-906f-8c94a5054e33.png)
+![image](https://user-images.githubusercontent.com/97037283/193605355-c2893b19-d08f-4032-a45e-9df34a276b61.png)
 
-| MISION   |      VISION      |  VALORES |
-|:-------------:|:-------------:|:-------------:|
-| Crear conexiones de intercambios culturales y servicios de movilización para niños | Generar una comunidad de familias y negocios mostrando sus potenciales de sus respectivas localizaciones, rompiendo barreras mentales y geográficas | 
+### MISION
+
+**Crear conexiones** de intercambios culturales y servicios de movilización para niños.
+
+### VISION
+
+Generar una comunidad de familias y negocios mostrando sus potenciales de sus respectivas localizaciones, **rompiendo barreras** mentales y geográficas.
+
+### VALORES
+
+* Comunidad
+* Cultura
+* Satisfacción
+* Transparencia
+* Intercambio
+* Educación
+* Escucha
+* Responsabilidad
+* Respeto
